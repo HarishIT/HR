@@ -53,6 +53,8 @@ public class ProductRunner implements CommandLineRunner {
 		
 		//public void addedForMaster(){
 	}
+	//public void addedForMaster2(){
+	}
 
 	}
 }
