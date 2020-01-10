@@ -51,36 +51,8 @@ public class ProductRunner implements CommandLineRunner {
 		////findAll(Sort sort); it perform customization sorting
 		repo.findAll(Sort.by(Direction.DESC, "prodName")).forEach(System.out::println);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-
+		//public void addedForMaster(){
+	}
 
 	}
 }
